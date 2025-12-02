@@ -1,7 +1,7 @@
 # AdventJS 2025 🎄💻
 
 [![AdventJS](https://img.shields.io/badge/AdventJS-Visitar%20sitio-blue?logo=javascript&logoColor=yellow)](https://adventjs.dev)
-[![AdventJS 2025 - Lista de reproducción](https://img.shields.io/badge/YouTube-AdventJS%202025-red?logo=youtube)](https://www.youtube.com/playlist?list=TU_LISTA)
+[![AdventJS 2025 - Lista de reproducción](https://img.shields.io/badge/YouTube-AdventJS%202025-red?logo=youtube)](https://www.youtube.com/playlist?list=PLHPxKNK1gpzI1aMFdW70Ffb3MTIVNvM_C)
 
 Este repositorio contiene mis soluciones a los retos del **AdventJS 2025**, el calendario de adviento de programación creado por **MiduDev**.
 
