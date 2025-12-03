@@ -23,7 +23,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 |----|----------------------------------------|------------|-------------|----------------|
 | 01 | Filtrar los regalos defectuosos        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/1) | [Youtube](https://www.youtube.com/watch?v=9_JAwT_Wr44) |
 | 02 | Fabrica los juguetes        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/2) | [YouTube](https://www.youtube.com/watch?v=sJKsusbdfAc) |
-| 03 |                                        |            |             |                |
+| 03 | Ayuda al Becario        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/3) | [YouTube](https://youtu.be/Dkh-j36efdA) |
 | 04 |                                        |            |             |                |
 | 05 |                                        |            |             |                |
 | 06 |                                        |            |             |                |
