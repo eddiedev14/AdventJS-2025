@@ -26,7 +26,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 03 | Ayuda al Becario        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/3) | [YouTube](https://youtu.be/Dkh-j36efdA) |
 | 04 | Descifra el PIN de Santa        | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/4) | [YouTube](https://youtu.be/ZrdFFUGmLMc) |
 | 05 | La cuenta atrás para el despegue        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/5) | [YouTube](https://www.youtube.com/watch?v=yJX6jZWcaXQ) |
-| 06 |                                        |            |             |                |
+| 06 | Emparejando Guantes        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/6) | [YouTube](https://youtu.be/NdYcaqTIt0g) |
 | 07 |                                        |            |             |                |
 | 08 |                                        |            |             |                |
 | 09 |                                        |            |             |                |
