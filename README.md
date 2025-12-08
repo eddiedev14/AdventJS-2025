@@ -27,7 +27,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 04 | Descifra el PIN de Santa        | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/4) | [YouTube](https://youtu.be/ZrdFFUGmLMc) |
 | 05 | La cuenta atrás para el despegue        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/5) | [YouTube](https://www.youtube.com/watch?v=yJX6jZWcaXQ) |
 | 06 | Emparejando Guantes        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/6) | [YouTube](https://youtu.be/NdYcaqTIt0g) |
-| 07 |                                        |            |             |                |
+| 07 | Montando el árbol        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/7) | [YouTube](https://www.youtube.com/watch?v=M6CSUs4YhmY&t) |
 | 08 |                                        |            |             |                |
 | 09 |                                        |            |             |                |
 | 10 |                                        |            |             |                |
