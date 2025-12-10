@@ -29,7 +29,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 06 | Emparejando Guantes        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/6) | [YouTube](https://youtu.be/NdYcaqTIt0g) |
 | 07 | Montando el árbol        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/7) | [YouTube](https://www.youtube.com/watch?v=M6CSUs4YhmY&t) |
 | 08 | Encuentra el juguete único        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/8) | [YouTube](https://www.youtube.com/watch?v=dxaT42NYmQU) |
-| 09 |                                        |            |             |                |
+| 09 | El Reno Robot Aspirador        | 🔴         | [Ver reto](https://adventjs.dev/es/challenges/2025/9) | [YouTube](https://youtu.be/EDrhJv7mhT4) |
 | 10 |                                        |            |             |                |
 | 11 |                                        |            |             |                |
 | 12 |                                        |            |             |                |
