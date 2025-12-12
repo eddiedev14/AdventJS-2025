@@ -32,7 +32,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 09 | El Reno Robot Aspirador        | 🔴         | [Ver reto](https://adventjs.dev/es/challenges/2025/9) | [YouTube](https://youtu.be/EDrhJv7mhT4) |
 | 10 | Profundidad de Magia Navideña        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/10) | [YouTube](https://youtu.be/_cPhM2G_r44) |
 | 11 | Regalos sin Vigilancia        | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/11) | [YouTube](https://youtu.be/kuD1ds9FvxA) |
-| 12 |                                        |            |             |                |
+| 12 | Batalla de Elfos      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/12) | [YouTube](https://youtu.be/kzG43gr8gSE) |
 | 13 |                                        |            |             |                |
 | 14 |                                        |            |             |                |
 | 15 |                                        |            |             |                |
