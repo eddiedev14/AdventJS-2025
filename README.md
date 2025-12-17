@@ -36,8 +36,8 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 13 | La Cadena de Montaje      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/13) | [YouTube](https://youtu.be/OiZn8kHq588) |
 | 14 | Encuentra el Camino al Regalo      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/14) | [YouTube](https://youtu.be/o9YPccanXII) |
 | 15 | Dibujando Tablas      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/15) | [YouTube](https://youtu.be/YX4ZbHfKDr0) |
-| 16 |                                        |            |             |                |
-| 17 |                                        |            |             |                |
+| 16 | Empaquetando Regalos para Santa      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/16) | [YouTube](https://youtu.be/AdrZOoWxrlg) |
+| 17 | El Panel de Luces Navideñas      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/17) | [YouTube](https://youtu.be/K7VjVsOH3E8) |
 | 18 |                                        |            |             |                |
 | 19 |                                        |            |             |                |
 | 20 |                                        |            |             |                |
