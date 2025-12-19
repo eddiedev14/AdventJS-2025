@@ -39,7 +39,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 16 | Empaquetando Regalos para Santa      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/16) | [YouTube](https://youtu.be/AdrZOoWxrlg) |
 | 17 | El Panel de Luces Navideñas      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/17) | [YouTube](https://youtu.be/K7VjVsOH3E8) |
 | 18 | Luces en línea con Diagonales      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/18) | [YouTube](https://www.youtube.com/watch?v=wK50U1Oz59I) |
-| 19 |                                        |            |             |                |
+| 19 | El Viaje Secreto de Papá Noel      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/19) | [YouTube](https://youtu.be/FyyLweD52KQ) |
 | 20 |                                        |            |             |                |
 | 21 |                                        |            |             |                |
 | 22 |                                        |            |             |                |
