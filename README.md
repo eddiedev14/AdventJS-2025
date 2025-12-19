@@ -38,7 +38,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 15 | Dibujando Tablas      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/15) | [YouTube](https://youtu.be/YX4ZbHfKDr0) |
 | 16 | Empaquetando Regalos para Santa      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/16) | [YouTube](https://youtu.be/AdrZOoWxrlg) |
 | 17 | El Panel de Luces Navideñas      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/17) | [YouTube](https://youtu.be/K7VjVsOH3E8) |
-| 18 |                                        |            |             |                |
+| 18 | Luces en línea con Diagonales      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/18) | [YouTube](https://www.youtube.com/watch?v=wK50U1Oz59I) |
 | 19 |                                        |            |             |                |
 | 20 |                                        |            |             |                |
 | 21 |                                        |            |             |                |
