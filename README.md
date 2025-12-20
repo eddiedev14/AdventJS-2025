@@ -40,8 +40,8 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 17 | El Panel de Luces Navideñas      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/17) | [YouTube](https://youtu.be/K7VjVsOH3E8) |
 | 18 | Luces en línea con Diagonales      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/18) | [YouTube](https://www.youtube.com/watch?v=wK50U1Oz59I) |
 | 19 | El Viaje Secreto de Papá Noel      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/19) | [YouTube](https://youtu.be/FyyLweD52KQ) |
-| 20 |                                        |            |             |                |
-| 21 |                                        |            |             |                |
+| 20 | El Almacén Vertical      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/20) | [YouTube](https://youtu.be/x1j4kGwy2ms) |
+| 21 | El Robot de Limpieza      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/21) | [YouTube](https://youtu.be/-4fPiZTN8K0) |
 | 22 |                                        |            |             |                |
 | 23 |                                        |            |             |                |
 | 24 |                                        |            |             |                |
