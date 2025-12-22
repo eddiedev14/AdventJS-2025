@@ -42,7 +42,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 19 | El Viaje Secreto de Papá Noel      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/19) | [YouTube](https://youtu.be/FyyLweD52KQ) |
 | 20 | El Almacén Vertical      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/20) | [YouTube](https://youtu.be/x1j4kGwy2ms) |
 | 21 | El Robot de Limpieza      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/21) | [YouTube](https://youtu.be/-4fPiZTN8K0) |
-| 22 |                                        |            |             |                |
+| 22 | El Laberinto del Trineo        | 🔴         | [Ver reto](https://adventjs.dev/es/challenges/2025/22) | [YouTube](https://youtu.be/e0jIHyp7xuE) |
 | 23 |                                        |            |             |                |
 | 24 |                                        |            |             |                |
 
