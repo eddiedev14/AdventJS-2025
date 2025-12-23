@@ -43,7 +43,7 @@ Si deseas participar o consultar los retos oficiales, puedes hacerlo en el sitio
 | 20 | El Almacén Vertical      | 🟢         | [Ver reto](https://adventjs.dev/es/challenges/2025/20) | [YouTube](https://youtu.be/x1j4kGwy2ms) |
 | 21 | El Robot de Limpieza      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/21) | [YouTube](https://youtu.be/-4fPiZTN8K0) |
 | 22 | El Laberinto del Trineo        | 🔴         | [Ver reto](https://adventjs.dev/es/challenges/2025/22) | [YouTube](https://youtu.be/e0jIHyp7xuE) |
-| 23 |                                        |            |             |                |
+| 23 | Ruta de Regalos      | 🟡         | [Ver reto](https://adventjs.dev/es/challenges/2025/23) | [YouTube](https://youtu.be/CD54JfVqpGA) |
 | 24 |                                        |            |             |                |
 
 ---
